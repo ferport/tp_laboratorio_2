@@ -1,0 +1,12 @@
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Fernando\Desktop\Utn\Prog2-Lab2\tp_laboratorio_2\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
